@@ -1,0 +1,9 @@
+http://localhost:8081/user/101
+http://localhost:8999/user/101
+
+http://localhost:8082/contact/user/101
+http://localhost:8999/contact/user/101
+
+
+Api gateway : 8999
+Eureka : http://localhost:8761/
